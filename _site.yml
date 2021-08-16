@@ -1,9 +1,14 @@
 name: "dr-distill"
 title: "Dragons Reborn"
+base_url: https://dragons-reborn.netlify.app
+theme: assets/css/theme.css
 description: |
   Dragons Reborn
 output_dir: "_site"
 navbar:
+  logo:
+    image: images/dragons-reborn.png
+    href: index.html
   right:
     - text: "Home"
       href: index.html
