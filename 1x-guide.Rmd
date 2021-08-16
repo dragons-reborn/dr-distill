@@ -1,0 +1,73 @@
+---
+title: "1.x Guide"
+author:
+  - name: AthenaD
+description: |
+  GUIDE FOR USING 1.9 and 1.8 THREADS
+output: 
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+
+
+## **Steps for posting spots in your GBs**  
+
+  1. **Calculate the amount of forge points (fps) necessary to lock the desired number of spots on your Great Building (GB). There are two options**:
+	  * <u>Do the math.</u> The owner "***<span style="color:red;">locks</span>***" a particular spot by adding fps until the remaining number of fps needed to level the GB is twice the reward (includes contributor Arc bonus) a contributor will receive for taking that spot.
+		  * Example: 
+		    + You want to post the 3rd spot in your GB in the 1.9 thread. The contributor reward for taking the 3rd spot is 100 fps (1.9 x base reward = 1.9 x 53 approx.). The current number of fps required to level that GB is 350 fps. 
+		    + So, you add 150 fps to the GB. Now, when a contributor adds 100 fps to take the 3rd spot, it leaves 100 fps to level the GB (350 * 150 * 100). 
+		    + The contributor has the 3rd spot locked. Nobody can add 101 fps to the GB and take 3rd from the contributor. (Note: If the value you or the contributor would have to contribute is not a round number, then round up or a sniper will be able to steal the position by adding 1 more fp than the contributor).
+	  * <u>Use FOE tools</u> ([link](https://foe.tools/gb-investment)). Steps:
+		  1. Click on your GB from the list
+		  2. Enter the Arc bonus (90 for using the 1.9 thread and 80 for the 1.8 thread) under "% of global investors bonus (arc bonus)"
+		  3. Read the table below to find out how many total fps you (owner) need to add to lock each spot (amounts are cumulative).
+		  4. Add the appropriate amount of fp to your GB according to which spots you want to lock.
+		  5. Click the check boxes on the right side of the table according to which spots you have locked.
+		  6. Under Promotion Message, type your name into the Prefix box
+		  7. Make sure that “Display GB name” is set to “yes”
+		  8. Click the copy button for one of the promotion messages (options 1 or 4 is recommended)
+  2. **Post a message in the 1.8 or 1.9 thread that includes your name, the GB, and the spots you have locked and want taken.** 
+	  * Add the necessary fps to your GB before posting in the thread.  If you don’t add the necessary fp before the contributor takes the spot, then they may lose their position to a sniper.
+	  * Make sure the level for your GB is unlocked before you post it.  If you are adding fps, this is automatic. At higher levels, you may not need to add fps in order to lock spots, and it’s easy to just post the building without unlocking the level first. 
+	  * Post your GBs at the bottom of the list of GBs already in the thread. The longer a GB is in the thread, the greater the risk it will be sniped. Keeping the posting order intact allows guildmates to prioritize those GBs at the greatest risk.
+
+## Taking spots in others' GBs
+**If there is just one offer with one position up:**  
+1. Post the message, “clear”  
+2. Add the appropriate number of fps to the building
+
+**If there is more than one offer, and you take all the offers:**  
+1. Post the message, "clear"  
+2. Add the appropriate number of fps to all the GBs  
+
+**If there is more than one offer, and you only take some of the offers:**  
+1. Copy the all the offers of the original message to a new message.   
+2. Delete whatever position(s) that you are taking in the new message.   
+3. Post the updated new message and add your fps to the appropriate GB(s)  
+
+**If you are both taking offers and posting spots for your GB:**  
+1. Copy the all the offers of the original message to a new message.   
+2. Delete whatever position(s) that you are taking in the new message.   
+3. Add your GB offer to the bottom of the new message.  
+4. Post the updated new message and add your fps to the appropriate GB(s)  
+
+## Tips/Best Practices (Not requirements)  
+
+* **Lock 2 spots or fewer at a time**  
+  + Locking more than two spots at a time increases your likelihood of getting sniped and having to add extra fps to lock the next position.  
+
+* **Only unlock levels that you want to currently add fp to.**  
+  + Unlocking levels of your GB that you don’t plan on leveling immediately increases your likelihood of getting sniped. This is especially important when you reach levels at which no contribution is required on your part to lock the first few spots on your GB.
+
+* **Adding the amounts of fp for spots in your message**  
+  + Adding ammounts reduces the risk of mistakes and reduces the effort for contributors, especially those with Arcs over level 80.  
+
+* **Take all available spots**  
+  + The goal is for everyone to take every open spot that's available to them. This reduces the risk of the owner getting sniped and speeds the game along by enabling the owner to level their GBs as quickly as possible.
+  + If you can't take all available spots, the next best thing would be to try to take as many spots as you post. Anyone expecting help with their GBs should be willing to help others.
+  + GBs at the top of the list are top priority. If you can't take the spots of the GB(s) at the top of the list, the next level priority are GBs with 4th and 5th spots open.  
+
+

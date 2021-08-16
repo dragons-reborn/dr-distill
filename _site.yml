@@ -13,5 +13,5 @@ navbar:
     - text: "About"
       href: index.html
     - text: "1.x Guide"
-      href: about.html
+      href: 1x-guide.html
 output: distill::distill_article

@@ -109,6 +109,13 @@ d-appendix {
    /*margin-top: 18px;*/
 }
 
+/* vertically centers menu items */
+.distill-site-nav.distill-site-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
 
 
 
@@ -140,3 +147,7 @@ d-byline {
 
 div.byline {
   height: 97px;
+}
+
+
+
