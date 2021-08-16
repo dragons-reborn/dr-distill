@@ -2,19 +2,24 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
+      "title": "1.x Guide",
+      "description": "GUIDE FOR USING 1.9 and 1.8 THREADS",
+      "author": [
+        {
+          "name": "AthenaD",
+          "url": {}
+        }
+      ],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-16T11:14:28-04:00"
+      "last_modified": "2021-08-16T15:27:49-04:00"
     },
     {
       "path": "index.html",
-      "title": "Dragons Reborn",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Welcome to Dragons Reborn!",
+      "description": "FOUNDED: May 2016\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-16T11:14:29-04:00"
+      "contents": "\r\nLooking for a team-like atmosphere? Looking for a laid-back guild, where you can just kick back, play the game, & have some fun? Then this is the place…\r\nWhat we have to offer:\r\nWe open Level 4 in GE each week. No minimum number of fights needed. Your choice if you fight or not.\r\nWe have fun doing Battlegrounds. Nothing serious. Again, no minimum number of fights.\r\nA wide range of FP swap threads, including a Sticks to Bricks, 1.8, 1.9, & Power Leveling.\r\nHelpful and friendly guildmates\r\nWhat we ask from you:\r\nAid the guild at least two times per week. (This is strictly enforced)\r\nNotify Guild Leadership if you will be inactive for more than week.\r\nIf this all sounds good to you and you want to build your city without a ton of rules & drama, and be part of a family-like atmosphere then come and give us a try.\r\nContact tbats for further info about joining Dragons Reborn.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-16T15:27:50-04:00"
     }
   ],
   "collections": []

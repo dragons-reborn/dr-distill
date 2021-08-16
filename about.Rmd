@@ -1,10 +1,10 @@
 ---
-title: "About this site"
+title: "1.x Guide"
+author:
+  - name: AthenaD
 description: |
-  Some additional details about the website
+  GUIDE FOR USING 1.9 and 1.8 THREADS
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 

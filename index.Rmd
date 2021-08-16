@@ -1,15 +1,27 @@
 ---
-title: "Dragons Reborn"
+title: "Welcome to Dragons Reborn!"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  FOUNDED: May 2016
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+Looking for a team-like atmosphere? 
+Looking for a laid-back guild, where you can just kick back, play the game, & have some fun? Then this is the place... 
 
-```
+## What we have to offer:  
 
+  * We open Level 4 in GE each week. No minimum number of fights needed. Your choice if you fight or not.  
+  * We have fun doing Battlegrounds. Nothing serious. Again, no minimum number of fights.  
+  * A wide range of FP swap threads, including a Sticks to Bricks, 1.8, 1.9, & Power Leveling.  
+  * Helpful and friendly guildmates  
+
+
+## What we ask from you:  
+
+  * Aid the guild at least two times per week. (This is strictly enforced)  
+  * Notify Guild Leadership if you will be inactive for more than week.  
+
+If this all sounds good to you and you want to build your city without a ton of rules & drama,  and be part of a family-like atmosphere then come and give us a try.  
+
+Contact tbats for further info about joining Dragons Reborn.
