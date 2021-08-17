@@ -38,7 +38,7 @@ output:
 	  * Post your GBs at the bottom of the list of GBs already in the thread. The longer a GB is in the thread, the greater the risk it will be sniped. Keeping the posting order intact allows guildmates to prioritize those GBs at the greatest risk.
 
 ## Taking spots in others' GBs
-**Take spots in order** - (e.g. taking the third spot before the second spot has been taken) Taking a spot out of order can lead to the untaken spot being sniped.  
+**Take spots in order** - Taking a spot out of order can lead to the untaken spot being sniped. (e.g. taking the third spot before the second spot has been taken)  
 
   * Example:
     + An owner is leveling Cape Canaveral to level 25 (total cost, 1275) and has locked the first three spots by adding 239 fp.  
