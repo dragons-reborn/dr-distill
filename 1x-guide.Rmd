@@ -69,7 +69,7 @@ output:
 * **Only unlock levels that you want to currently add fp to.**  
   + Unlocking levels of your GB that you don’t plan on leveling immediately increases your likelihood of getting sniped. This is especially important when you reach levels at which no contribution is required on your part to lock the first few spots on your GB.
 
-* **Adding the amounts of fp for spots in your message**  
+* **Add the amounts of fp for spots in your message**  
   + Adding amounts reduces the risk of mistakes and reduces the effort for contributors, especially those with Arcs over level 80.  
 
 * **Take all available spots**  
