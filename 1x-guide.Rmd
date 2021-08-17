@@ -3,7 +3,7 @@ title: "1.x Guide"
 author:
   - name: AthenaD
 description: |
-  GUIDE FOR USING 1.9 and 1.8 THREADS
+  GUIDE FOR USING THE 1.9 and 1.8 THREADS
 output: 
   distill::distill_article:
     toc: true
