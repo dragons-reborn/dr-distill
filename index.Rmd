@@ -5,6 +5,7 @@ description: |
 site: distill::distill_website
 ---
 
+Dragons Reborn is a Forge of Empires guild in East-Nagach world.
 
 Looking for a team-like atmosphere? 
 Looking for a laid-back guild, where you can just kick back, play the game, & have some fun? Then this is the place... 
