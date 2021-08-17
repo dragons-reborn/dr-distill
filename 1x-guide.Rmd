@@ -10,6 +10,9 @@ output:
     self_contained: false
 ---
 
+## Who's eligible
+
+<u> All players with Arcs and players that want Arc prints are eligible for the 1.9 thread.</u> Read this guide then contact tbats for entry.  
 
 
 ## **Steps for posting spots in your GBs**  
