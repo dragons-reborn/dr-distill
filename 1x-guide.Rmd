@@ -20,7 +20,7 @@ output:
   1. **Calculate the amount of forge points (fps) necessary to lock the desired number of spots on your Great Building (GB). There are two options**:
 	  * <u>Do the math.</u> The owner "***<span style="color:red;">locks</span>***" a particular spot by adding fps until the remaining number of fps needed to level the GB is twice the reward (includes contributor Arc bonus) a contributor will receive for taking that spot.
 		  * Example: 
-		    + You want to post the 3rd spot in your GB in the 1.9 thread, and the current number of fps required to level that GB is **350 fps**. You calculate contributor reward for taking the 3rd spot to be **100 fps** (1.9 x base reward = 1.9 x 53 approx.). 
+		    + You want to post the 3rd spot in your GB in the 1.9 thread, and the current number of fps required to level that GB is **350 fps**. You calculate contributor reward for taking the 3rd spot to be **100 fps** (100 = 1.9 x base reward = 1.9 x 53 approx., where 53 is the base reward). 
 		    + To lock the 3rd spot, you calculate that you need to add **150 fps** to the GB. Now, when a contributor adds **100 fps** to take the 3rd spot, it leaves **100 fps** to level the GB (350 - 100 - x = 100 &nbsp; => &nbsp; 350 - 100 - 100 = x &nbsp; => &nbsp; x = 150). You add 150 fps.  
 		    + The contributor adds the 100 fp and has the 3rd spot locked. Nobody can add 101 fps to the GB and take 3rd from the contributor. (Note: If the value you or the contributor would have to contribute is not a round number, then round up or a sniper will be able to steal the position by adding 1 more fp than the contributor).
 	  * <u>Use FOE tools</u> ([link](https://foe.tools/gb-investment)). Steps:
