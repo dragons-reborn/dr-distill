@@ -4,6 +4,7 @@ base_url: https://dragons-reborn.netlify.app
 theme: assets/css/theme.css
 description: |
   Dragons Reborn
+google_analytics: "G-TLBWJQE4CK"
 output_dir: "_site"
 navbar:
   logo:

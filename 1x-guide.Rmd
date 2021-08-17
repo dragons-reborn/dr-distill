@@ -17,9 +17,9 @@ output:
   1. **Calculate the amount of forge points (fps) necessary to lock the desired number of spots on your Great Building (GB). There are two options**:
 	  * <u>Do the math.</u> The owner "***<span style="color:red;">locks</span>***" a particular spot by adding fps until the remaining number of fps needed to level the GB is twice the reward (includes contributor Arc bonus) a contributor will receive for taking that spot.
 		  * Example: 
-		    + You want to post the 3rd spot in your GB in the 1.9 thread. The contributor reward for taking the 3rd spot is 100 fps (1.9 x base reward = 1.9 x 53 approx.). The current number of fps required to level that GB is 350 fps. 
-		    + So, you add 150 fps to the GB. Now, when a contributor adds 100 fps to take the 3rd spot, it leaves 100 fps to level the GB (350 * 150 * 100). 
-		    + The contributor has the 3rd spot locked. Nobody can add 101 fps to the GB and take 3rd from the contributor. (Note: If the value you or the contributor would have to contribute is not a round number, then round up or a sniper will be able to steal the position by adding 1 more fp than the contributor).
+		    + You want to post the 3rd spot in your GB in the 1.9 thread, and the current number of fps required to level that GB is **350 fps**. You calculate contributor reward for taking the 3rd spot to be **100 fps** (1.9 x base reward = 1.9 x 53 approx.). 
+		    + To lock the 3rd spot, you calculate that you need to add **150 fps** to the GB. Now, when a contributor adds **100 fps** to take the 3rd spot, it leaves **100 fps** to level the GB (350 - 100 - x = 100 &nbsp; => &nbsp; 350 - 100 - 100 = x &nbsp; => &nbsp; x = 150). You add 150 fps.  
+		    + The contributor adds the 100 fp and has the 3rd spot locked. Nobody can add 101 fps to the GB and take 3rd from the contributor. (Note: If the value you or the contributor would have to contribute is not a round number, then round up or a sniper will be able to steal the position by adding 1 more fp than the contributor).
 	  * <u>Use FOE tools</u> ([link](https://foe.tools/gb-investment)). Steps:
 		  1. Click on your GB from the list
 		  2. Enter the Arc bonus (90 for using the 1.9 thread and 80 for the 1.8 thread) under "% of global investors bonus (arc bonus)"
@@ -35,6 +35,13 @@ output:
 	  * Post your GBs at the bottom of the list of GBs already in the thread. The longer a GB is in the thread, the greater the risk it will be sniped. Keeping the posting order intact allows guildmates to prioritize those GBs at the greatest risk.
 
 ## Taking spots in others' GBs
+**Take spots in order** - (e.g. taking the third spot before the second spot has been taken) Taking a spot out of order can lead to the untaken spot being sniped.  
+
+  * Example:
+    + An owner is leveling Cape Canaveral to level 25 (total cost, 1275) and has locked the first three spots by adding 239 fp.  
+    + The first spot is taken by someone for 561 fp and the third spot is taken for 95 fp
+    + The second spot should cost 285 fp but is now capable of being sniped for 190 fp ( (1275 - 239 - 561 - 95) / 2 )
+
 **If there is just one offer with one position up:**  
 1. Post the message, “clear”  
 2. Add the appropriate number of fps to the building
@@ -63,7 +70,7 @@ output:
   + Unlocking levels of your GB that you don’t plan on leveling immediately increases your likelihood of getting sniped. This is especially important when you reach levels at which no contribution is required on your part to lock the first few spots on your GB.
 
 * **Adding the amounts of fp for spots in your message**  
-  + Adding ammounts reduces the risk of mistakes and reduces the effort for contributors, especially those with Arcs over level 80.  
+  + Adding amounts reduces the risk of mistakes and reduces the effort for contributors, especially those with Arcs over level 80.  
 
 * **Take all available spots**  
   + The goal is for everyone to take every open spot that's available to them. This reduces the risk of the owner getting sniped and speeds the game along by enabling the owner to level their GBs as quickly as possible.
